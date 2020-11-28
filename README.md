@@ -6,9 +6,9 @@ The customer can signup to this website by providing basic details. Then the cus
 The user can also change their login password by going to settings options. The user can also contact us by going to contact page and get to know us through our About page.
 
 The Technologies used :
-HTML
-CSS
-PHP
+HTML,
+CSS,
+PHP,
 BOOTSTRAP
 
 A local database (PHPMYADMIN) is used for database connectivity.
